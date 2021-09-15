@@ -4,11 +4,17 @@
 
 
 
+Process Flow 1
+Party Master --> Rate Request --> --> Rate Request Approval
 
-Party Master
-Rate Request
-Rate Request Approval
-Vessel schedule / Voyage Master
+
+Vessel schedule / Voyage Master 
+
+
 Booking
+
+
 Draft BL
+
+
 Container Movement Register
